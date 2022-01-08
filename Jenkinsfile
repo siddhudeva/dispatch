@@ -4,5 +4,5 @@
 env.COMPONENT = "dispatch"
 env.BUILD_LABEL = "WORKSTATION"
 
-// Library Groovy file
+// Library Groovy files
 golang()
